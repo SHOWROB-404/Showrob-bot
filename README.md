@@ -1,7 +1,7 @@
 <br />
 <p align="center">
     <a href="https://github.com/SHOWROB-404-Showrob-bot">
-        <img src="https://i.imgur.com/sxW5AWa.png" alt="Logo">
+        <img src=[(https://i.postimg.cc/D0P57b1S/New-Project-14-6-B87-B80.png)]" alt="Logo">
     </a>
 
 <h3 align="center">MiraiBot</h3>
@@ -38,13 +38,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## introduce
-<p><strong>MIRAIPROJECT LÀ GÌ?</strong></p>
+<p><strong>Showrob-bot LÀ GÌ?</strong></p>
 <br />
 <p>
 <strong>MiraiProject</strong> thật chất là một dự án mang đến Messenger một trải nghiệm mới cho người dùng bằng cách xây dựng một hệ thống bot dành riêng cho messenger facebook. Dự án này được <strong>Catalizcs</strong>(Founder) và <strong>SpermLord</strong>(Co-Founder) xây dựng và duy trì.
 </p>
 
-![miraiv2-product](https://miraiproject.tk/images/demo.png)
+![showrob-product](https://miraiproject.tk/images/demo.png)
 
 
 <!-- INSTALLATION -->
@@ -81,7 +81,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     1. chuột phải ở folder cần cài đặt source code nhấn vào git bash
     2. nhập
     ```sh
-    git clone https://github.com/miraipr0ject/miraiv2.git miraiv2
+    git clone https://github.com/SHOWROB-404/Showrob-bot 
     ``` 
 
 4. Cài đặt các package cần thiết
@@ -139,7 +139,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
       ```
       2. Để vận hành bot, bạn chỉ cần nhập vào termux
       ```sh
-      cd ./miraiv2 && npm start
+      cd showrob && npm start
       ```
 
 #### Linux/ubuntu

@@ -1,0 +1,60 @@
+{
+	"name": "miraiBot",
+	"version": "1.2.15",
+	"description": "A simple Facebook Messenger Bot made by me(SHOWROB CHOWDHURY.",
+	"main": "showrob.js",
+	"scripts": {
+		"start": "node index",
+		"login": "node login",
+		"test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SHOWROB-404/Showrob-bot"
+	},
+	"keywords": [
+		"bot",
+		"facebook",
+		"projectmirai",
+		"messenger",
+		"mirai",
+		"catalizcs",
+		"spermlord",
+		"miraipr0ject"
+	],
+	"author": "CatalizCS & SpermLord",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/SHOWROB-404/Showrob-bot/issues"
+	},
+	"homepage": "https://github.com/SHOWROB-404/Showrob-bot#readme",
+	"dependencies": {
+		"@showrobpr0ject/assets": "",
+		"axios": "",
+		"body-parser": "",
+		"caesar-salad": "",
+		"canvas": "",
+		"chalk": "",
+		"cheerio": "",
+		"child_process": "",
+		"crypto": "",
+		"eval": "",
+		"extract-zip": "",
+		"@miraipr0ject/fca-unofficial": "",
+		"figlet": "",
+		"fs-extra": "",
+		"jimp": "",
+		"minimist": "",
+		"moment-timezone": "",
+		"ms": "",
+		"npmlog": "",
+		"path": "",
+		"readline": "",
+		"request": "",
+		"semver": "",
+		"sequelize": "",
+		"sqlite3": "",
+		"string-similarity": "",
+		"totp-generator": ""
+	}
+}

@@ -1,23 +1,23 @@
 <br />
 <p align="center">
-    <a href="https://github.com/miraiPr0ject/miraiv2">
+    <a href="https://github.com/SHOWROB-404-Showrob-bot">
         <img src="https://i.imgur.com/sxW5AWa.png" alt="Logo">
     </a>
 
 <h3 align="center">MiraiBot</h3>
 
 <p align="center">
-    A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.
+    A simple Facebook Messenger Bot made by Showrob Chowdhury.
     <br />
     <br />
     <a href="https://github.com/miraiPr0ject/miraiv2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/miraiPr0ject/miraiv2/pulls">Request Feature</a>
+    <a href="https://github.com/SHOWROB-404/Showrob-bot/pulls">Request Feature</a>
     </p>
 </p>
 
 <p align="center">
-	<img alt="size" src="https://img.shields.io/github/repo-size/miraiPr0ject/miraiv2.svg?style=flat-square&label=size">
+	<img alt="size" src="https://i.postimg.cc/D0P57b1S/New-Project-14-6-B87-B80.png">
 	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2FmiraiPr0ject%2Fmiraiv2%2Fmaster%2Fpackage.json&style=flat-square">
 	<a href="https://github.com/miraiPr0ject/miraiv2/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/miraiPr0ject/miraiv2.svg?label=commit&style=flat-square"></a>
     	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=miraiPr0ject.miraiv2">
